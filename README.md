@@ -13,7 +13,9 @@ A library app which let the user upload authors and books.
 - [x] Search system
 - [x] MongoDB implementation
 - [ ] Admin dashboard 
-
+- [x] Add author function
+- [ ] Edit author function
+- [ ] Delete author function
 
 ### Views
 - [ ] UX Design
