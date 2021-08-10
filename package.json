@@ -8,7 +8,7 @@
         "devStart": "nodemon server.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Gabriel Fini",
     "license": "ISC",
     "dependencies": {
         "body-parser": "^1.19.0",
